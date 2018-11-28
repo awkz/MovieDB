@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "net.dapurstudio.moviedb" 
+    versionCode = "1"
+    version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Movie DB</name>
+
+    <description>
+        Aplikasi untuk mengetahui film terbaru, film yang akan datang serta ratingnya.
+    </description>
+
+    <author href="https://dapurstudio.net" email="mail@dapurstudio.net">
+        Bara Ramadhan Asdisusilo
+    </author>
+
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <preference name="KeepRunning" value="false"/>
+    <preference name="SplashScreen" value="screen"/>
+    
+    <icon src="icon-512.png" />
+</widget>
