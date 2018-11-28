@@ -17,10 +17,5 @@
         Bara Ramadhan Asdisusilo
     </author>
 
-    <preference name="orientation" value="portrait" />
-    <preference name="fullscreen" value="true" />
-    <preference name="KeepRunning" value="false"/>
-    <preference name="SplashScreen" value="screen"/>
-
     <icon src="icon.png" />
 </widget>
