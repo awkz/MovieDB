@@ -21,6 +21,6 @@
     <preference name="fullscreen" value="true" />
     <preference name="KeepRunning" value="false"/>
     <preference name="SplashScreen" value="screen"/>
-    
-    <icon src="icon-512.png" />
+
+    <icon src="icon.png" />
 </widget>
